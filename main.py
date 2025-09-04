@@ -17,3 +17,5 @@ with col2:
 
 content1 = '''Ниже вы сможете найти приложения которые я написал на Python. Свяжитесь со мной!'''
 st.write(content1)
+
+st.navigation()
